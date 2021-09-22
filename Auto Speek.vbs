@@ -1,4 +1,4 @@
-'Created By Samyak Bumb'
+'Written By Samyak Bumb'
 Dim message, sapi
 message=InputBox("Hello! Samyak What Do You Want Me To Say?","Speak to Me")
 Set sapi=CreateObject("sapi.spvoice")
